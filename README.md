@@ -17,3 +17,27 @@ Basic Network Automation (Python, Bash, Ansible)
 Email: kishki4321@gmail.com
 LinkedIn: linkedin.com/in/bayubahe-abdoul-330208279
 GitHub: https://github.com/dashboard
+
+Skills
+
+Networking Fundamentals:
+TCP/IP, DNS, DHCP, VPN, and Subnetting
+Routing and Switching basics (OSI model, IP addressing)
+
+Network Troubleshooting:
+Understanding tools like ping, traceroute, ipconfig, and nslookup
+Diagnosing connectivity issues
+
+Operating System Management:
+Windows Server, Linux basics, and configuration
+
+Network Security:
+Implementing firewalls, anti-virus software, and security protocols
+
+Certifications
+Cisco Certified Network Associate (CCNA)
+Google cybersecurity 
+
+cv
+[canva'CV.pdf](https://github.com/user-attachments/files/18671293/canva.CV.pdf)
+
